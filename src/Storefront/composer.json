@@ -32,7 +32,7 @@
         "symfony/security-csrf": "4.4.1",
         "symfony/service-contracts": "1.1.7",
         "symfony/validator": "4.4.1",
-        "symfony/security-core": "4.4.1",
+        "symfony/security-core": "4.4.23",
         "symfony/mime": "4.4.1",
         "true/punycode": "2.1.1",
         "twig/intl-extra": "2.12.2",
