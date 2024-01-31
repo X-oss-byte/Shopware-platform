@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "shopware/platform": "1.0.0"
+        "shopware/platform": "6.0.0+ea2"
     },
     "extra": {
         "shopware-plugin-class": "SwagTest\\SwagTest",
