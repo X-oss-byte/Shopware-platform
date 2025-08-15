@@ -87,7 +87,7 @@
         "babel-loader": "8.0.6",
         "babel-plugin-istanbul": "5.2.0",
         "babel-plugin-module-resolver": "3.2.0",
-        "browserslist": "4.6.6",
+        "browserslist": "4.16.5",
         "chai-shallow-deep-equal": "1.4.6",
         "chalk": "2.4.2",
         "connect-history-api-fallback": "1.6.0",
