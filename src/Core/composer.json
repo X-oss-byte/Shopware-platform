@@ -37,7 +37,7 @@
         "ext-xml": "*",
         "ext-zip": "*",
         "ext-openssl": "*",
-        "aws/aws-sdk-php": "3.115.1",
+        "aws/aws-sdk-php": "3.288.1",
         "cocur/slugify": "3.2",
         "composer/composer": "1.9.1",
         "composer/semver": "1.5.0",
