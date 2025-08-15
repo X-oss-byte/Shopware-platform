@@ -99,7 +99,7 @@
         "symfony/monolog-bridge": "4.4.1",
         "symfony/inflector": "4.4.1",
         "symfony/twig-bridge": "4.4.1",
-        "symfony/process": "4.4.1",
+        "symfony/process": "5.4.46",
         "symfony/debug": "4.4.1",
         "symfony/mime": "4.4.1",
         "symfony/var-exporter": "4.4.1",
