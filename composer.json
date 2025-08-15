@@ -103,7 +103,7 @@
         "symfony/swiftmailer-bundle": "3.3.1",
         "symfony/translation": "4.4.1",
         "symfony/translation-contracts": "1.1.7",
-        "symfony/twig-bridge": "4.4.1",
+        "symfony/twig-bridge": "4.4.51",
         "symfony/twig-bundle": "4.4.1",
         "symfony/validator": "4.4.1",
         "symfony/var-exporter": "4.4.1",
