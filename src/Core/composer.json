@@ -95,7 +95,7 @@
         "symfony/twig-bundle": "4.4.1",
         "symfony/validator": "4.4.1",
         "symfony/yaml": "4.4.1",
-        "symfony/security-core": "4.4.1",
+        "symfony/security-core": "4.4.23",
         "symfony/monolog-bridge": "4.4.1",
         "symfony/inflector": "4.4.1",
         "symfony/twig-bridge": "4.4.1",
