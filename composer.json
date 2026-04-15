@@ -37,7 +37,7 @@
         "ext-zip": "*",
         "aws/aws-sdk-php": "3.115.1",
         "cocur/slugify": "3.2",
-        "composer/composer": "1.9.1",
+        "composer/composer": "1.10.27",
         "composer/semver": "1.5.0",
         "doctrine/annotations": "1.8.0",
         "doctrine/dbal": "2.10.0",
