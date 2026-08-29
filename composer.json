@@ -122,7 +122,7 @@
         "johnkary/phpunit-speedtrap": "3.1.0",
         "league/flysystem-memory": "1.0.2",
         "mbezhanov/faker-provider-collection": "1.2.1",
-        "phpunit/phpunit": "8.4.3",
+        "phpunit/phpunit": "8.5.52",
         "smalot/pdfparser": "0.14.0",
         "symfony/browser-kit": "4.4.1",
         "symfony/dependency-injection": "4.4.1",
