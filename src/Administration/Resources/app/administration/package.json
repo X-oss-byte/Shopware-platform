@@ -123,7 +123,7 @@
         "less-loader": "5.0.0",
         "node-sass": "4.13.0",
         "opn": "6.0.0",
-        "prismjs": "1.17.1",
+        "prismjs": "1.30.0",
         "sass-loader": "7.1.0",
         "semver": "6.3.0",
         "stylelint": "10.1.0",
