@@ -62,7 +62,7 @@
         "sensio/framework-extra-bundle": "5.5.1",
         "sroze/messenger-enqueue-transport": "0.3.2",
         "superbalist/flysystem-google-storage": "7.2.2",
-        "swiftmailer/swiftmailer": "6.2.1",
+        "swiftmailer/swiftmailer": "6.2.5",
         "symfony/asset": "4.4.1",
         "symfony/debug-bundle": "4.4.1",
         "symfony/cache": "4.4.1",
