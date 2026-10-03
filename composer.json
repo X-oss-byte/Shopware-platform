@@ -105,7 +105,7 @@
         "symfony/translation-contracts": "1.1.7",
         "symfony/twig-bridge": "4.4.1",
         "symfony/twig-bundle": "4.4.1",
-        "symfony/validator": "4.4.1",
+        "symfony/validator": "5.4.43",
         "symfony/var-exporter": "4.4.1",
         "symfony/yaml": "4.4.1",
         "true/punycode": "2.1.1",
