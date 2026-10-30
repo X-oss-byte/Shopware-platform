@@ -117,7 +117,7 @@
         "inject-loader": "4.0.1",
         "jest": "24.8.0",
         "jest-junit": "7.0.0",
-        "jsdoc": "3.6.3",
+        "jsdoc": "3.6.11",
         "launch-editor-middleware": "2.2.1",
         "less": "3.9.0",
         "less-loader": "5.0.0",
